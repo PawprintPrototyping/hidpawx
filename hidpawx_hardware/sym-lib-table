@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "hidpawx_hardware")(type "KiCad")(uri "${KIPRJMOD}/hidpawx_hardware.kicad_sym")(options "")(descr ""))
+  (lib (name "Espressif")(type "KiCad")(uri "/home/user/projects/hidpawx/kicad-libraries/symbols/Espressif.kicad_sym")(options "")(descr ""))
+)
