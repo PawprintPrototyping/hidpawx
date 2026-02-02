@@ -3671,6 +3671,16 @@
 		)
 		(uuid "3b085c33-3142-4afd-8710-66c5c56835f0")
 	)
+	(label "MAINS_OUT"
+		(at 156.21 52.07 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3f3213ed-dcec-4514-9453-3a3552bba560")
+	)
 	(label "OUT_1"
 		(at 90.17 96.52 0)
 		(effects
@@ -3780,6 +3790,16 @@
 			(justify left bottom)
 		)
 		(uuid "be8ad28d-3bcd-4720-8b10-7b2b9faf0a97")
+	)
+	(label "MAINS_IN"
+		(at 156.21 49.53 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d243516d-76f5-49b5-8810-5d099a8fbe33")
 	)
 	(label "NFC_SDA"
 		(at 90.17 114.3 0)
