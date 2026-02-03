@@ -1,0 +1,5 @@
+WS_ENDPOINT = "wss://members.pawprintprototyping.org/ws"
+# WS_ENDPOINT = "wss://members.pawprintprototyping.org/ws/access"
+API_KEY = "XYZ"
+DEVICE_TYPE = "interlock"
+DEVICE_NAME = "test_hidpawx_interlock"
